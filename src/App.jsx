@@ -70,4 +70,5 @@ export default App;
 
 /**
  * When you see any duplicate structure just make it a component
+ * Try to make reusable components as much as you can
  */
