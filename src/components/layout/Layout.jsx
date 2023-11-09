@@ -25,6 +25,16 @@ function Layout(props) {
                 Help
               </Link>
             </li>
+            <li>
+              <Link to="/clock" className={classes.navItem}>
+                Clock
+              </Link>
+            </li>
+            <li>
+              <Link to="/tasks" className={classes.navItem}>
+                Tasks
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
